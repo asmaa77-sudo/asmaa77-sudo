@@ -1,11 +1,11 @@
 ## Hi, I'm Asmaa 👋
 
-🎓 Cybersecurity Management & Analytics (BIT-Cyber) @ Virginia Tech  
-☁️ Interested in Cloud Security, AWS, and Security Automation| Cyber Risk 
-🐍 Python | AWS | IAM | S3| SQL| HTML
+ Cybersecurity Management & Analytics (BIT-Cyber) @ Virginia Tech  
+ Interested in Cloud Security, AWS, and Security Automation| Cyber Risk 
+ Python | AWS | IAM | S3| SQL| HTML
 
 ### Featured Project
-🔐 **AWS S3 Security Audit Tool**  
+ **AWS S3 Security Audit Tool**  
 - Audits S3 buckets for public access, encryption, and versioning  
 - Built with Python & Boto3  
 
