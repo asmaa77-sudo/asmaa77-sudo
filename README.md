@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Asmaa 👋
 
-<!--
-**asmaa77-sudo/asmaa77-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Management & Analytics (BIT-Cyber) @ Virginia Tech  
+☁️ Interested in Cloud Security, AWS, and Security Automation  
+🐍 Python | AWS | IAM | S3
 
-Here are some ideas to get you started:
+### Featured Project
+🔐 **AWS S3 Security Audit Tool**  
+- Audits S3 buckets for public access, encryption, and versioning  
+- Built with Python & Boto3  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 View the project here:  
+https://github.com/asmaa77-sudo/aws_s3_audit
